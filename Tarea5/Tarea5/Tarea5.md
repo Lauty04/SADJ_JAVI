@@ -15,7 +15,7 @@ Lo encriptamos y le damos una contraseña.
     gpg --symmetric simetrico.txt
 
 
-![alt text](imgs/2.png)
+![alt text](imgs/Captura de pantalla 2023-10-02 113837.png)
 
 ### 3. Comprueba de qué tipo es el fichero que se ha generado (binario o de texto).
 
