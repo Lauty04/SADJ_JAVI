@@ -15,7 +15,7 @@ Para configurar la red inalambrica entramos en wirles y ponemos la siguiente con
 
 ![Texto Alternativo](TAREA6.IMGS/01.png)
 
-Luego en Wirless en security profile creamos uno con la siguiente configuración eh indicamos en la interfaz de wirless que usaremos este security profile:
+Luego en la sección Wirless/security profile creamos un perfil con la siguiente configuración, luego debemos indicar en la interfaz de wirless que usaremos este security profile:
 
 ![Texto Alternativo](TAREA6.IMGS/02.png)
 
