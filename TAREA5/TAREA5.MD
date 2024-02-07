@@ -84,6 +84,10 @@ Como vemos en la siguiente imagen el proxy transparente esta funcionando ya que 
 
 ![Texto alternativo](tarea5.imgs/01.png)
 
+
 Tambien vemos en la siguiente imagen que al hacerle un ping a google nos dice que a traves de la gateway 55.13 lo redirige a la 55.1
 
 ![Texto alternativo](tarea5.imgs/02.png)
+
+Luego de haber importado el certificado y que ya nos funcione podemos ver que al ver el certificado de las paginas sale tmb el nuestro :
+![Texto alternativo](tarea5.imgs/03.png)
